@@ -58,7 +58,7 @@ function MaterialPayemnet({ amount, selected, measurementDetails,setMeasurementD
                 key: 'rzp_test_AyMdIWw0Bommab',
                 amount: totalamount * 100,
                 currency: "INR",
-                name: "Kharidoo",
+                name: "masterji",
                 description: `Material Cost: ₹${parseInt(amount)} + Stitching Charges: ₹400`,
                 orderId: orderId,
                 handler: async (response) => {
