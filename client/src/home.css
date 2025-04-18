@@ -1,0 +1,28 @@
+/* home.css */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  overflow: hidden; /* Prevent scrollbars */
+}
+
+.header {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.main-content {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
